@@ -1,0 +1,517 @@
+[
+    {
+        "name": "Zeus",
+        "pronunciation": "zoos",
+        "description": "King of the gods, ruler of Mount Olympus, and god of the sky, weather, thunder, lightning, law, order, and justice."
+    },
+    {
+        "name": "Hera",
+        "pronunciation": "HEE-ruh",
+        "description": "Queen of the gods and the goddess of marriage, women, childbirth, and family."
+    },
+    {
+        "name": "Poseidon",
+        "pronunciation": "puh-SY-dun",
+        "description": "God of the sea, earthquakes, storms, and horses."
+    },
+    {
+        "name": "Demeter",
+        "pronunciation": "dih-MEE-ter",
+        "description": "Goddess of the harvest, agriculture, fertility, and sacred law."
+    },
+    {
+        "name": "Athena",
+        "pronunciation": "uh-THEE-nuh",
+        "description": "Goddess of wisdom, courage, inspiration, civilization, law and justice, strategic warfare, mathematics, strength, strategy, the arts, crafts, and skill."
+    },
+    {
+        "name": "Apollo",
+        "pronunciation": "uh-POL-oh",
+        "description": "God of the sun, light, healing, plague, prophecy, poetry, music, and the arts."
+    },
+    {
+        "name": "Artemis",
+        "pronunciation": "AR-tuh-mis",
+        "description": "Goddess of the hunt, wilderness, moon, and archery."
+    },
+    {
+        "name": "Ares",
+        "pronunciation": "AIR-eez",
+        "description": "God of war, bloodshed, and violence."
+    },
+    {
+        "name": "Aphrodite",
+        "pronunciation": "af-ro-DY-tee",
+        "description": "Goddess of love, beauty, desire, and fertility."
+    },
+    {
+        "name": "Hephaestus",
+        "pronunciation": "huh-FES-tus",
+        "description": "God of fire, metalworking, stone masonry, forges, and the art of sculpture."
+    },
+    {
+        "name": "Hermes",
+        "pronunciation": "HER-meez",
+        "description": "God of trade, thieves, travelers, sports, athletes, and border crossings, guide to the Underworld."
+    },
+    {
+        "name": "Hestia",
+        "pronunciation": "HES-tee-uh",
+        "description": "Goddess of the hearth, home, and domesticity."
+    },
+    {
+        "name": "Hades",
+        "pronunciation": "HAY-deez",
+        "description": "God of the underworld and the dead."
+    },
+    {
+        "name": "Persephone",
+        "pronunciation": "per-SEF-uh-nee",
+        "description": "Goddess of the underworld, springtime, flowers, and vegetation."
+    },
+    {
+        "name": "Dionysus",
+        "pronunciation": "dy-uh-NY-sus",
+        "description": "God of wine, grape harvest, winemaking, fertility, ritual madness, religious ecstasy, and theatre."
+    },
+    {
+        "name": "Eros",
+        "pronunciation": "EE-ros",
+        "description": "God of love, attraction, and desire."
+    },
+    {
+        "name": "Nike",
+        "pronunciation": "NY-kee",
+        "description": "Goddess of victory."
+    },
+    {
+        "name": "Hypnos",
+        "pronunciation": "HIP-nos",
+        "description": "God of sleep."
+    },
+    {
+        "name": "Nemesis",
+        "pronunciation": "NEH-meh-sis",
+        "description": "Goddess of retribution and vengeance."
+    },
+    {
+        "name": "Iris",
+        "pronunciation": "EYE-ris",
+        "description": "Goddess of the rainbow and messenger of the gods."
+    },
+    {
+        "name": "Tyche",
+        "pronunciation": "TY-kee",
+        "description": "Goddess of fortune and prosperity."
+    },
+    {
+        "name": "Eris",
+        "pronunciation": "EE-ris",
+        "description": "Goddess of strife and discord."
+    },
+    {
+        "name": "Helios",
+        "pronunciation": "HEE-lee-os",
+        "description": "God of the sun."
+    },
+    {
+        "name": "Selene",
+        "pronunciation": "seh-LEE-nee",
+        "description": "Goddess of the moon."
+    },
+    {
+        "name": "Pan",
+        "pronunciation": "PAN",
+        "description": "God of the wild, shepherds, flocks, nature, and rustic music."
+    },
+    {
+        "name": "Morpheus",
+        "pronunciation": "MOR-fee-us",
+        "description": "God of dreams."
+    },
+    {
+        "name": "Thanatos",
+        "pronunciation": "THAN-uh-tos",
+        "description": "God of death."
+    },
+    {
+        "name": "Hecate",
+        "pronunciation": "HEK-uh-tee",
+        "description": "Goddess of magic, witchcraft, the night, moon, ghosts, and necromancy."
+    },
+    {
+        "name": "Gaia",
+        "pronunciation": "GAY-uh",
+        "description": "Primordial goddess of the Earth."
+    },
+    {
+        "name": "Uranus",
+        "pronunciation": "YOO-ruh-nuhs",
+        "description": "Primordial god of the sky."
+    },
+    {
+        "name": "Cronus",
+        "pronunciation": "KROH-nuhs",
+        "description": "Leader of the first generation of Titans and father of Zeus."
+    },
+    {
+        "name": "Rhea",
+        "pronunciation": "REE-uh",
+        "description": "Titaness and mother of Zeus."
+    },
+    {
+        "name": "Prometheus",
+        "pronunciation": "proh-MEE-thee-uhs",
+        "description": "Titan god of forethought and crafty counsel, who gave fire to humanity."
+    },
+    {
+        "name": "Atlas",
+        "pronunciation": "AT-luhs",
+        "description": "Titan condemned to hold up the sky for eternity."
+    },
+    {
+        "name": "Selene",
+        "pronunciation": "seh-LEE-nee",
+        "description": "Goddess of the moon."
+    },
+    {
+        "name": "Eos",
+        "pronunciation": "EE-os",
+        "description": "Goddess of the dawn."
+    },
+    {
+        "name": "Nyx",
+        "pronunciation": "NIKS",
+        "description": "Primordial goddess of the night."
+    },
+    {
+        "name": "Erebus",
+        "pronunciation": "ER-uh-bus",
+        "description": "Primordial god of darkness."
+    },
+    {
+        "name": "Hemera",
+        "pronunciation": "HEE-muh-ruh",
+        "description": "Primordial goddess of the day."
+    },
+    {
+        "name": "Aether",
+        "pronunciation": "EE-thur",
+        "description": "Primordial god of the upper air."
+    },
+    {
+        "name": "Ananke",
+        "pronunciation": "uh-NAN-kee",
+        "description": "Primordial goddess of inevitability, compulsion, and necessity."
+    },
+    {
+        "name": "Eros",
+        "pronunciation": "EE-ros",
+        "description": "Primordial god of procreation."
+    },
+    {
+        "name": "Chaos",
+        "pronunciation": "KAY-os",
+        "description": "Primordial void and personification of the lower atmosphere."
+    },
+    {
+        "name": "Tartarus",
+        "pronunciation": "TAR-tuh-rus",
+        "description": "Primordial god of the abyss."
+    },
+    {
+        "name": "Pontus",
+        "pronunciation": "PON-tus",
+        "description": "Primordial god of the sea."
+    },
+    {
+        "name": "Eurus",
+        "pronunciation": "YOO-rus",
+        "description": "God of the east wind."
+    },
+    {
+        "name": "Boreas",
+        "pronunciation": "BOR-ee-as",
+        "description": "God of the north wind."
+    },
+    {
+        "name": "Notus",
+        "pronunciation": "NOH-tus",
+        "description": "God of the south wind."
+    },
+    {
+        "name": "Zephyrus",
+        "pronunciation": "ZEF-uh-rus",
+        "description": "God of the west wind."
+    },
+    {
+        "name": "Phobos",
+        "pronunciation": "FOH-bos",
+        "description": "God of fear."
+    },
+    {
+        "name": "Deimos",
+        "pronunciation": "DEE-mos",
+        "description": "God of terror."
+    },
+    {
+        "name": "Harmonia",
+        "pronunciation": "har-MOH-nee-uh",
+        "description": "Goddess of harmony and concord."
+    },
+    {
+        "name": "Hebe",
+        "pronunciation": "HEE-bee",
+        "description": "Goddess of youth."
+    },
+    {
+        "name": "Metis",
+        "pronunciation": "MEE-tis",
+        "description": "Titaness of wisdom and good counsel."
+    },
+    {
+        "name": "Themis",
+        "pronunciation": "THEE-mis",
+        "description": "Titaness of divine law and order."
+    },
+    {
+        "name": "Mnemosyne",
+        "pronunciation": "nee-MOS-uh-nee",
+        "description": "Titaness of memory and mother of the Muses."
+    },
+    {
+        "name": "Oceanus",
+        "pronunciation": "oh-SEE-uh-nuhs",
+        "description": "Titan god of the ocean."
+    },
+    {
+        "name": "Tethys",
+        "pronunciation": "TEE-this",
+        "description": "Titaness of the sources of fresh water."
+    },
+    {
+        "name": "Hyperion",
+        "pronunciation": "hy-PEER-ee-on",
+        "description": "Titan god of heavenly light."
+    },
+    {
+        "name": "Iapetus",
+        "pronunciation": "eye-AP-uh-tuhs",
+        "description": "Titan god of mortality."
+    },
+    {
+        "name": "Coeus",
+        "pronunciation": "SEE-us",
+        "description": "Titan god of intellect."
+    },
+    {
+        "name": "Crius",
+        "pronunciation": "KREE-us",
+        "description": "Titan god of constellations."
+    },
+    {
+        "name": "Phoebe",
+        "pronunciation": "FEE-bee",
+        "description": "Titaness of the prophetic mind."
+    },
+    {
+        "name": "Rhea",
+        "pronunciation": "REE-uh",
+        "description": "Titaness and mother of the Olympian gods."
+    },
+    {
+        "name": "Theia",
+        "pronunciation": "THEE-uh",
+        "description": "Titaness of sight and the shining light of the clear blue sky."
+    },
+    {
+        "name": "Leto",
+        "pronunciation": "LEE-toh",
+        "description": "Titaness of motherhood and mother of Apollo and Artemis."
+    },
+    {
+        "name": "Astraeus",
+        "pronunciation": "as-TREE-us",
+        "description": "Titan god of the dusk and stars."
+    },
+    {
+        "name": "Pallas",
+        "pronunciation": "PAL-as",
+        "description": "Titan god of warcraft."
+    },
+    {
+        "name": "Styx",
+        "pronunciation": "STIKS",
+        "description": "Goddess of the river Styx and oaths."
+    },
+    {
+        "name": "Eos",
+        "pronunciation": "EE-os",
+        "description": "Goddess of the dawn."
+    },
+    {
+        "name": "Selene",
+        "pronunciation": "seh-LEE-nee",
+        "description": "Goddess of the moon."
+    },
+    {
+        "name": "Helios",
+        "pronunciation": "HEE-lee-os",
+        "description": "God of the sun."
+    },
+    {
+        "name": "Asteria",
+        "pronunciation": "as-TEER-ee-uh",
+        "description": "Titaness of nocturnal oracles and falling stars."
+    },
+    {
+        "name": "Perses",
+        "pronunciation": "PUR-seez",
+        "description": "Titan god of destruction."
+    },
+    {
+        "name": "Eurybia",
+        "pronunciation": "yoo-RIB-ee-uh",
+        "description": "Goddess of the mastery of the seas."
+    },
+    {
+        "name": "Clymene",
+        "pronunciation": "KLY-mee-nee",
+        "description": "Titaness of renown, fame, and infamy."
+    },
+    {
+        "name": "Dione",
+        "pronunciation": "dy-OH-nee",
+        "description": "Titaness of the oracle of Dodona."
+    },
+    {
+        "name": "Epimetheus",
+        "pronunciation": "ep-ee-MEE-thee-us",
+        "description": "Titan god of afterthought and excuses."
+    },
+    {
+        "name": "Menoetius",
+        "pronunciation": "men-EE-shus",
+        "description": "Titan god of violent anger and rash action."
+    },
+    {
+        "name": "Prometheus",
+        "pronunciation": "proh-MEE-thee-us",
+        "description": "Titan god of forethought and crafty counsel."
+    },
+    {
+        "name": "Aegaeon",
+        "pronunciation": "ee-JEE-on",
+        "description": "God of violent sea storms."
+    },
+    {
+        "name": "Ceto",
+        "pronunciation": "SEE-toh",
+        "description": "Goddess of the dangers of the ocean and sea monsters."
+    },
+    {
+        "name": "Phorcys",
+        "pronunciation": "FOR-seez",
+        "description": "God of the hidden dangers of the deep."
+    },
+    {
+        "name": "Echidna",
+        "pronunciation": "eh-KID-nuh",
+        "description": "Mother of monsters."
+    },
+    {
+        "name": "Cerberus",
+        "pronunciation": "SUR-ber-us",
+        "description": "Three-headed dog guarding the entrance to the underworld."
+    },
+    {
+        "name": "Charybdis",
+        "pronunciation": "kuh-RIB-dis",
+        "description": "Sea monster creating whirlpools."
+    },
+    {
+        "name": "Scylla",
+        "pronunciation": "SIL-uh",
+        "description": "Sea monster with multiple heads."
+    },
+    {
+        "name": "Chimera",
+        "pronunciation": "ky-MEER-uh",
+        "description": "Fire-breathing monster with a lion's head, goat's body, and serpent's tail."
+    },
+    {
+        "name": "Hydra",
+        "pronunciation": "HY-druh",
+        "description": "Multi-headed serpent."
+    },
+    {
+        "name": "Sphinx",
+        "pronunciation": "SFINX",
+        "description": "Creature with a lion's body and a human head."
+    },
+    {
+        "name": "Minotaur",
+        "pronunciation": "MIN-uh-tawr",
+        "description": "Creature with the body of a man and the head of a bull."
+    },
+    {
+        "name": "Medusa",
+        "pronunciation": "muh-DOO-suh",
+        "description": "Gorgon with snakes for hair."
+    },
+    {
+        "name": "Pegasus",
+        "pronunciation": "PEG-uh-sus",
+        "description": "Winged horse."
+    },
+    {
+        "name": "Cyclops",
+        "pronunciation": "SY-klops",
+        "description": "One-eyed giant."
+    },
+    {
+        "name": "Gorgons",
+        "pronunciation": "GOR-gonz",
+        "description": "Monstrous women with snakes for hair."
+    },
+    {
+        "name": "Sirens",
+        "pronunciation": "SY-renz",
+        "description": "Creatures whose songs lure sailors to their deaths."
+    },
+    {
+        "name": "Harpies",
+        "pronunciation": "HAR-peez",
+        "description": "Winged spirits of sudden, sharp gusts of wind."
+    },
+    {
+        "name": "Satyrs",
+        "pronunciation": "SAY-terz",
+        "description": "Half-man, half-goat creatures."
+    },
+    {
+        "name": "Nymphs",
+        "pronunciation": "NIMFS",
+        "description": "Minor nature goddesses."
+    },
+    {
+        "name": "Furies",
+        "pronunciation": "FYOOR-eez",
+        "description": "Deities of vengeance."
+    },
+    {
+        "name": "Griffin",
+        "pronunciation": "GRIF-in",
+        "description": "Creature with the body of a lion and the head and wings of an eagle."
+    },
+    {
+        "name": "Phoenix",
+        "pronunciation": "FEE-niks",
+        "description": "Immortal bird that regenerates from its ashes."
+    },
+    {
+        "name": "Nemean Lion",
+        "pronunciation": "nee-MEE-an LYE-un",
+        "description": "Invulnerable lion defeated by Heracles."
+    }
+]
