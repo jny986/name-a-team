@@ -26,12 +26,11 @@ class TeamSeeder extends Seeder
             'Theseus' => null,
             'Ajax' => null,
             'Iris' => null,
-            'Appollo' => null,
+            'Apollo' => null,
             'Nike' => null,
             'Hector' => null,
             'Aetos' => null,
             'Hyperion' => null,
-            'IO' => null,
             'Atlas' => null,
             'Pegasus' => null,
             'Orion' => null,
@@ -40,23 +39,16 @@ class TeamSeeder extends Seeder
         foreach ($teams as $key => $description) {
             $nameStr = Str::kebab($key);
 
-            $name = Name::firstOrCreate(
-                [
-                    'name' => $nameStr
-                ],
-                [
-                    'label' => $key,
-                ]
-            );
+            $name = Name::where('name', $nameStr)->first();
 
             $team = Team::firstOrCreate(
                 [
                     'name' => $nameStr
                 ],
                 [
-                    'label' => $name->label,
+                    'label' => $key,
                     'description' => $description,
-                    'name_id' => $name->id
+                    'name_id' => $name?->id
                 ]
             );
         }

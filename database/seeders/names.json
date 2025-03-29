@@ -513,5 +513,870 @@
         "name": "Nemean Lion",
         "pronunciation": "nee-MEE-an LYE-un",
         "description": "Invulnerable lion defeated by Heracles."
+    },
+    {
+        "name": "Hercules",
+        "pronunciation": "HER-kyoo-leez",
+        "description": "Roman name for Heracles, a divine hero and son of Zeus."
+    },
+    {
+        "name": "Jason",
+        "pronunciation": "JAY-sun",
+        "description": "Leader of the Argonauts and seeker of the Golden Fleece."
+    },
+    {
+        "name": "Perseus",
+        "pronunciation": "PUR-see-us",
+        "description": "Hero who defeated Medusa and rescued Andromeda."
+    },
+    {
+        "name": "Theseus",
+        "pronunciation": "THEE-see-us",
+        "description": "Hero and king of Athens who defeated the Minotaur."
+    },
+    {
+        "name": "Ajax",
+        "pronunciation": "AY-jaks",
+        "description": "Hero of the Trojan War known for his strength and courage."
+    },
+    {
+        "name": "Hector",
+        "pronunciation": "HEK-tor",
+        "description": "Trojan prince and greatest warrior of Troy."
+    },
+    {
+        "name": "Orion",
+        "pronunciation": "oh-RYE-un",
+        "description": "Giant huntsman whom Zeus placed among the stars as the constellation of Orion."
+    },
+    {
+        "name": "Achilles",
+        "pronunciation": "uh-KIL-eez",
+        "description": "Greatest Greek warrior in the Trojan War, known for his only weakness, his heel."
+    },
+    {
+        "name": "Odysseus",
+        "pronunciation": "oh-DIS-ee-us",
+        "description": "King of Ithaca and hero of the Odyssey, known for his cleverness and cunning."
+    },
+    {
+        "name": "Pandora",
+        "pronunciation": "pan-DOR-uh",
+        "description": "First woman created by the gods, known for opening a box that released all the evils of humanity."
+    },
+    {
+        "name": "Orpheus",
+        "pronunciation": "OR-fee-us",
+        "description": "Legendary musician, poet, and prophet who could charm anyone with his music."
+    },
+    {
+        "name": "Eurydice",
+        "pronunciation": "yoo-RID-uh-see",
+        "description": "Nymph and wife of Orpheus, who died and was almost rescued from the underworld."
+    },
+    {
+        "name": "Bellerophon",
+        "pronunciation": "bel-ER-uh-fon",
+        "description": "Hero who tamed Pegasus and defeated the Chimera."
+    },
+    {
+        "name": "Atalanta",
+        "pronunciation": "at-uh-LAN-tuh",
+        "description": "Famed huntress and runner who participated in the Calydonian Boar Hunt."
+    },
+    {
+        "name": "Medea",
+        "pronunciation": "meh-DEE-uh",
+        "description": "Sorceress and wife of Jason, known for her revenge against him."
+    },
+    {
+        "name": "Cadmus",
+        "pronunciation": "KAD-mus",
+        "description": "Founder and first king of Thebes, known for slaying a dragon and sowing its teeth."
+    },
+    {
+        "name": "Antigone",
+        "pronunciation": "an-TIG-uh-nee",
+        "description": "Daughter of Oedipus, known for her defiance of King Creon in burying her brother."
+    },
+    {
+        "name": "Oedipus",
+        "pronunciation": "ED-uh-pus",
+        "description": "King of Thebes who unwittingly killed his father and married his mother."
+    },
+    {
+        "name": "Phaethon",
+        "pronunciation": "FAY-uh-thon",
+        "description": "Son of Helios who lost control of the sun chariot and was struck down by Zeus."
+    },
+    {
+        "name": "Narcissus",
+        "pronunciation": "nar-SIS-us",
+        "description": "Hunter who fell in love with his own reflection and turned into a flower."
+    },
+    {
+        "name": "Echo",
+        "pronunciation": "EK-oh",
+        "description": "Nymph cursed to only repeat the words of others, fell in love with Narcissus."
+    },
+    {
+        "name": "Psyche",
+        "pronunciation": "SY-kee",
+        "description": "Mortal woman who became the goddess of the soul and wife of Eros."
+    },
+    {
+        "name": "Adonis",
+        "pronunciation": "uh-DON-is",
+        "description": "Handsome youth loved by Aphrodite, killed by a wild boar."
+    },
+    {
+        "name": "Ganymede",
+        "pronunciation": "GAN-uh-meed",
+        "description": "Beautiful mortal youth abducted by Zeus to be the cupbearer of the gods."
+    },
+    {
+        "name": "Io",
+        "pronunciation": "EYE-oh",
+        "description": "Priestess of Hera turned into a cow and pursued by a gadfly sent by Hera."
+    },
+    {
+        "name": "Callisto",
+        "pronunciation": "kuh-LIS-toh",
+        "description": "Nymph transformed into a bear and then into the constellation Ursa Major."
+    },
+    {
+        "name": "Ariadne",
+        "pronunciation": "ar-ee-AD-nee",
+        "description": "Princess of Crete who helped Theseus defeat the Minotaur and later became the wife of Dionysus."
+    },
+    {
+        "name": "Andromeda",
+        "pronunciation": "an-DROM-uh-duh",
+        "description": "Princess chained to a rock as a sacrifice to a sea monster, rescued by Perseus."
+    },
+    {
+        "name": "Cassandra",
+        "pronunciation": "kuh-SAN-druh",
+        "description": "Trojan princess and prophetess cursed to never be believed."
+    },
+    {
+        "name": "Electra",
+        "pronunciation": "ee-LEK-truh",
+        "description": "Daughter of Agamemnon and Clytemnestra, known for her role in avenging her father's murder."
+    },
+    {
+        "name": "Hippolyta",
+        "pronunciation": "hi-POL-i-tuh",
+        "description": "Queen of the Amazons, known for her encounter with Heracles."
+    },
+    {
+        "name": "Iphigenia",
+        "pronunciation": "if-i-jeh-NY-uh",
+        "description": "Daughter of Agamemnon, sacrificed to appease the goddess Artemis."
+    },
+    {
+        "name": "Leda",
+        "pronunciation": "LEE-duh",
+        "description": "Queen of Sparta, mother of Helen, Castor, Pollux, and Clytemnestra."
+    },
+    {
+        "name": "Niobe",
+        "pronunciation": "NY-oh-bee",
+        "description": "Queen who boasted about her children and was punished by Apollo and Artemis."
+    },
+    {
+        "name": "Penelope",
+        "pronunciation": "peh-NEL-oh-pee",
+        "description": "Wife of Odysseus, known for her loyalty and cleverness."
+    },
+    {
+        "name": "Phaedra",
+        "pronunciation": "FEE-druh",
+        "description": "Wife of Theseus who fell in love with her stepson Hippolytus."
+    },
+    {
+        "name": "Semele",
+        "pronunciation": "SEM-uh-lee",
+        "description": "Mother of Dionysus, who was consumed by Zeus's divine form."
+    },
+    {
+        "name": "Tantalus",
+        "pronunciation": "TAN-tuh-lus",
+        "description": "King punished in the afterlife with eternal hunger and thirst."
+    },
+    {
+        "name": "Sisyphus",
+        "pronunciation": "SIS-uh-fus",
+        "description": "King condemned to roll a boulder up a hill for eternity."
+    },
+    {
+        "name": "Ixion",
+        "pronunciation": "ik-SY-on",
+        "description": "King punished for attempting to seduce Hera, bound to a fiery wheel."
+    },
+    {
+        "name": "Tiresias",
+        "pronunciation": "ty-REE-see-us",
+        "description": "Blind prophet of Thebes who was transformed into a woman for seven years."
+    },
+    {
+        "name": "Chiron",
+        "pronunciation": "KY-ron",
+        "description": "Wise centaur and tutor of many heroes, including Achilles and Asclepius."
+    },
+    {
+        "name": "Asclepius",
+        "pronunciation": "uh-SKLEE-pee-us",
+        "description": "God of medicine and healing."
+    },
+    {
+        "name": "Hyacinthus",
+        "pronunciation": "hy-uh-SIN-thus",
+        "description": "Beautiful youth loved by Apollo, turned into a flower after his death."
+    },
+    {
+        "name": "Pygmalion",
+        "pronunciation": "pig-MAY-lee-on",
+        "description": "Sculptor who fell in love with a statue he had carved, which was brought to life by Aphrodite."
+    },
+    {
+        "name": "Ariadne",
+        "pronunciation": "ar-ee-AD-nee",
+        "description": "Princess of Crete who helped Theseus defeat the Minotaur and later became the wife of Dionysus."
+    },
+    {
+        "name": "Andromeda",
+        "pronunciation": "an-DROM-uh-duh",
+        "description": "Princess chained to a rock as a sacrifice to a sea monster, rescued by Perseus."
+    },
+    {
+        "name": "Cassandra",
+        "pronunciation": "kuh-SAN-druh",
+        "description": "Trojan princess and prophetess cursed to never be believed."
+    },
+    {
+        "name": "Electra",
+        "pronunciation": "ee-LEK-truh",
+        "description": "Daughter of Agamemnon and Clytemnestra, known for her role in avenging her father's murder."
+    },
+    {
+        "name": "Hippolyta",
+        "pronunciation": "hi-POL-i-tuh",
+        "description": "Queen of the Amazons, known for her encounter with Heracles."
+    },
+    {
+        "name": "Iphigenia",
+        "pronunciation": "if-i-jeh-NY-uh",
+        "description": "Daughter of Agamemnon, sacrificed to appease the goddess Artemis."
+    },
+    {
+        "name": "Leda",
+        "pronunciation": "LEE-duh",
+        "description": "Queen of Sparta, mother of Helen, Castor, Pollux, and Clytemnestra."
+    },
+    {
+        "name": "Niobe",
+        "pronunciation": "NY-oh-bee",
+        "description": "Queen who boasted about her children and was punished by Apollo and Artemis."
+    },
+    {
+        "name": "Penelope",
+        "pronunciation": "peh-NEL-oh-pee",
+        "description": "Wife of Odysseus, known for her loyalty and cleverness."
+    },
+    {
+        "name": "Phaedra",
+        "pronunciation": "FEE-druh",
+        "description": "Wife of Theseus who fell in love with her stepson Hippolytus."
+    },
+    {
+        "name": "Semele",
+        "pronunciation": "SEM-uh-lee",
+        "description": "Mother of Dionysus, who was consumed by Zeus's divine form."
+    },
+    {
+        "name": "Tantalus",
+        "pronunciation": "TAN-tuh-lus",
+        "description": "King punished in the afterlife with eternal hunger and thirst."
+    },
+    {
+        "name": "Sisyphus",
+        "pronunciation": "SIS-uh-fus",
+        "description": "King condemned to roll a boulder up a hill for eternity."
+    },
+    {
+        "name": "Ixion",
+        "pronunciation": "ik-SY-on",
+        "description": "King punished for attempting to seduce Hera, bound to a fiery wheel."
+    },
+    {
+        "name": "Tiresias",
+        "pronunciation": "ty-REE-see-us",
+        "description": "Blind prophet of Thebes who was transformed into a woman for seven years."
+    },
+    {
+        "name": "Chiron",
+        "pronunciation": "KY-ron",
+        "description": "Wise centaur and tutor of many heroes, including Achilles and Asclepius."
+    },
+    {
+        "name": "Asclepius",
+        "pronunciation": "uh-SKLEE-pee-us",
+        "description": "God of medicine and healing."
+    },
+    {
+        "name": "Hyacinthus",
+        "pronunciation": "hy-uh-SIN-thus",
+        "description": "Beautiful youth loved by Apollo, turned into a flower after his death."
+    },
+    {
+        "name": "Psyche",
+        "pronunciation": "SY-kee",
+        "description": "Mortal woman who became the goddess of the soul and wife of Eros."
+    },
+    {
+        "name": "Achelous",
+        "pronunciation": "a-KEE-loh-us",
+        "description": "God of the Achelous River."
+    },
+    {
+        "name": "Aeolus",
+        "pronunciation": "EE-oh-lus",
+        "description": "God of the winds."
+    },
+    {
+        "name": "Alcyone",
+        "pronunciation": "al-SY-oh-nee",
+        "description": "One of the Pleiades, turned into a kingfisher."
+    },
+    {
+        "name": "Amphitrite",
+        "pronunciation": "am-fi-TRY-tee",
+        "description": "Goddess of the sea, wife of Poseidon."
+    },
+    {
+        "name": "Antheia",
+        "pronunciation": "an-THEE-uh",
+        "description": "Goddess of flowers and flowery wreaths."
+    },
+    {
+        "name": "Aphroditus",
+        "pronunciation": "af-ro-DY-tus",
+        "description": "Male counterpart of Aphrodite."
+    },
+    {
+        "name": "Aristaeus",
+        "pronunciation": "a-ris-TEE-us",
+        "description": "God of beekeeping, cheese-making, herding, olive-growing, and hunting."
+    },
+    {
+        "name": "Asclepius",
+        "pronunciation": "uh-SKLEE-pee-us",
+        "description": "God of medicine and healing."
+    },
+    {
+        "name": "Astraea",
+        "pronunciation": "as-TREE-uh",
+        "description": "Goddess of justice, innocence, and purity."
+    },
+    {
+        "name": "Atropos",
+        "pronunciation": "AT-roh-pos",
+        "description": "One of the three Fates, cutter of the thread of life."
+    },
+    {
+        "name": "Bia",
+        "pronunciation": "BYE-uh",
+        "description": "Goddess of force and raw energy."
+    },
+    {
+        "name": "Brizo",
+        "pronunciation": "BREE-zoh",
+        "description": "Goddess of sailors."
+    },
+    {
+        "name": "Caerus",
+        "pronunciation": "KAY-rus",
+        "description": "God of opportunity, luck, and favorable moments."
+    },
+    {
+        "name": "Ceto",
+        "pronunciation": "SEE-toh",
+        "description": "Goddess of the dangers of the ocean and sea monsters."
+    },
+    {
+        "name": "Chione",
+        "pronunciation": "kee-OH-nee",
+        "description": "Goddess of snow."
+    },
+    {
+        "name": "Circe",
+        "pronunciation": "SUR-see",
+        "description": "Enchantress who transformed Odysseus's men into swine."
+    },
+    {
+        "name": "Clio",
+        "pronunciation": "KLY-oh",
+        "description": "Muse of history."
+    },
+    {
+        "name": "Cybele",
+        "pronunciation": "SIB-uh-lee",
+        "description": "Phrygian mother goddess, associated with mountains, town and city walls, fertile nature, and wild animals."
+    },
+    {
+        "name": "Dike",
+        "pronunciation": "DY-kee",
+        "description": "Goddess of justice, fair judgements, and the rights established by custom and law."
+    },
+    {
+        "name": "Eileithyia",
+        "pronunciation": "ee-lith-EE-uh",
+        "description": "Goddess of childbirth."
+    },
+    {
+        "name": "Enyo",
+        "pronunciation": "en-YOH",
+        "description": "Goddess of war and destruction, companion of Ares."
+    },
+    {
+        "name": "Eos",
+        "pronunciation": "EE-os",
+        "description": "Goddess of the dawn."
+    },
+    {
+        "name": "Eris",
+        "pronunciation": "EE-ris",
+        "description": "Goddess of strife and discord."
+    },
+    {
+        "name": "Eurus",
+        "pronunciation": "YOO-rus",
+        "description": "God of the east wind."
+    },
+    {
+        "name": "Hesperus",
+        "pronunciation": "HES-per-us",
+        "description": "God of the evening star."
+    },
+    {
+        "name": "Eosphorus",
+        "pronunciation": "ee-OS-for-us",
+        "description": "God of the morning star."
+    },
+    {
+        "name": "Astraea",
+        "pronunciation": "as-TREE-uh",
+        "description": "Goddess of justice, innocence, and purity."
+    },
+    {
+        "name": "Hecatoncheires",
+        "pronunciation": "hek-uh-ton-KY-reez",
+        "description": "Giants with a hundred hands and fifty heads."
+    },
+    {
+        "name": "Lachesis",
+        "pronunciation": "LAK-uh-sis",
+        "description": "One of the three Fates, measurer of the thread of life."
+    },
+    {
+        "name": "Clotho",
+        "pronunciation": "KLOH-thoh",
+        "description": "One of the three Fates, spinner of the thread of life."
+    },
+    {
+        "name": "Atropos",
+        "pronunciation": "AT-roh-pos",
+        "description": "One of the three Fates, cutter of the thread of life."
+    },
+    {
+        "name": "Eileithyia",
+        "pronunciation": "ee-lith-EE-uh",
+        "description": "Goddess of childbirth."
+    },
+    {
+        "name": "Harmonia",
+        "pronunciation": "har-MOH-nee-uh",
+        "description": "Goddess of harmony and concord."
+    },
+    {
+        "name": "Hebe",
+        "pronunciation": "HEE-bee",
+        "description": "Goddess of youth."
+    },
+    {
+        "name": "Hecate",
+        "pronunciation": "HEK-uh-tee",
+        "description": "Goddess of magic, witchcraft, the night, moon, ghosts, and necromancy."
+    },
+    {
+        "name": "Hesperides",
+        "pronunciation": "hes-PER-uh-deez",
+        "description": "Nymphs of the evening and golden light of sunsets."
+    },
+    {
+        "name": "Horae",
+        "pronunciation": "HOR-ee",
+        "description": "Goddesses of the natural order and the seasons."
+    },
+    {
+        "name": "Hygeia",
+        "pronunciation": "hy-JEE-uh",
+        "description": "Goddess of good health, cleanliness, and sanitation."
+    },
+    {
+        "name": "Iris",
+        "pronunciation": "EYE-ris",
+        "description": "Goddess of the rainbow and messenger of the gods."
+    },
+    {
+        "name": "Kratos",
+        "pronunciation": "KRAY-tos",
+        "description": "God of strength and power."
+    },
+    {
+        "name": "Leto",
+        "pronunciation": "LEE-toh",
+        "description": "Titaness of motherhood and mother of Apollo and Artemis."
+    },
+    {
+        "name": "Morpheus",
+        "pronunciation": "MOR-fee-us",
+        "description": "God of dreams."
+    },
+    {
+        "name": "Nemesis",
+        "pronunciation": "NEH-meh-sis",
+        "description": "Goddess of retribution and vengeance."
+    },
+    {
+        "name": "Panacea",
+        "pronunciation": "pan-uh-SEE-uh",
+        "description": "Goddess of universal remedy."
+    },
+    {
+        "name": "Alecto",
+        "pronunciation": "uh-LEK-toh",
+        "description": "One of the Furies, goddess of unceasing anger."
+    },
+    {
+        "name": "Megaera",
+        "pronunciation": "meh-JEER-uh",
+        "description": "One of the Furies, goddess of jealousy."
+    },
+    {
+        "name": "Tisiphone",
+        "pronunciation": "tis-IF-uh-nee",
+        "description": "One of the Furies, goddess of vengeance."
+    },
+    {
+        "name": "Eirene",
+        "pronunciation": "eye-REE-nee",
+        "description": "Goddess of peace."
+    },
+    {
+        "name": "Eunomia",
+        "pronunciation": "yoo-NOH-mee-uh",
+        "description": "Goddess of law and legislation."
+    },
+    {
+        "name": "Dysnomia",
+        "pronunciation": "dis-NOH-mee-uh",
+        "description": "Goddess of lawlessness."
+    },
+    {
+        "name": "Peitho",
+        "pronunciation": "PY-thoh",
+        "description": "Goddess of persuasion and seduction."
+    },
+    {
+        "name": "Pheme",
+        "pronunciation": "FEE-mee",
+        "description": "Goddess of fame and renown."
+    },
+    {
+        "name": "Hygieia",
+        "pronunciation": "hy-JEE-uh",
+        "description": "Goddess of health, cleanliness, and hygiene."
+    },
+    {
+        "name": "Aglaea",
+        "pronunciation": "uh-GLAY-uh",
+        "description": "One of the Charites (Graces), goddess of beauty, splendor, glory, and adornment."
+    },
+    {
+        "name": "Euphrosyne",
+        "pronunciation": "yoo-FROH-suh-nee",
+        "description": "One of the Charites (Graces), goddess of good cheer, joy, mirth, and merriment."
+    },
+    {
+        "name": "Thalia",
+        "pronunciation": "thuh-LY-uh",
+        "description": "One of the Charites (Graces), goddess of festive celebrations and rich banquets."
+    },
+    {
+        "name": "Eileithyia",
+        "pronunciation": "ee-lith-EE-uh",
+        "description": "Goddess of childbirth."
+    },
+    {
+        "name": "Harmonia",
+        "pronunciation": "har-MOH-nee-uh",
+        "description": "Goddess of harmony and concord."
+    },
+    {
+        "name": "Hebe",
+        "pronunciation": "HEE-bee",
+        "description": "Goddess of youth."
+    },
+    {
+        "name": "Hecate",
+        "pronunciation": "HEK-uh-tee",
+        "description": "Goddess of magic, witchcraft, the night, moon, ghosts, and necromancy."
+    },
+    {
+        "name": "Hesperides",
+        "pronunciation": "hes-PER-uh-deez",
+        "description": "Nymphs of the evening and golden light of sunsets."
+    },
+    {
+        "name": "Horae",
+        "pronunciation": "HOR-ee",
+        "description": "Goddesses of the natural order and the seasons."
+    },
+    {
+        "name": "Hygeia",
+        "pronunciation": "hy-JEE-uh",
+        "description": "Goddess of good health, cleanliness, and sanitation."
+    },
+    {
+        "name": "Aether",
+        "pronunciation": "EE-thur",
+        "description": "Primordial god of the upper air."
+    },
+    {
+        "name": "Ananke",
+        "pronunciation": "uh-NAN-kee",
+        "description": "Primordial goddess of inevitability, compulsion, and necessity."
+    },
+    {
+        "name": "Eros",
+        "pronunciation": "EE-ros",
+        "description": "Primordial god of procreation."
+    },
+    {
+        "name": "Chaos",
+        "pronunciation": "KAY-os",
+        "description": "Primordial void and personification of the lower atmosphere."
+    },
+    {
+        "name": "Tartarus",
+        "pronunciation": "TAR-tuh-rus",
+        "description": "Primordial god of the abyss."
+    },
+    {
+        "name": "Pontus",
+        "pronunciation": "PON-tus",
+        "description": "Primordial god of the sea."
+    },
+    {
+        "name": "Eurus",
+        "pronunciation": "YOO-rus",
+        "description": "God of the east wind."
+    },
+    {
+        "name": "Boreas",
+        "pronunciation": "BOR-ee-as",
+        "description": "God of the north wind."
+    },
+    {
+        "name": "Notus",
+        "pronunciation": "NOH-tus",
+        "description": "God of the south wind."
+    },
+    {
+        "name": "Zephyrus",
+        "pronunciation": "ZEF-uh-rus",
+        "description": "God of the west wind."
+    },
+    {
+        "name": "Phobos",
+        "pronunciation": "FOH-bos",
+        "description": "God of fear."
+    },
+    {
+        "name": "Deimos",
+        "pronunciation": "DEE-mos",
+        "description": "God of terror."
+    },
+    {
+        "name": "Harmonia",
+        "pronunciation": "har-MOH-nee-uh",
+        "description": "Goddess of harmony and concord."
+    },
+    {
+        "name": "Hebe",
+        "pronunciation": "HEE-bee",
+        "description": "Goddess of youth."
+    },
+    {
+        "name": "Metis",
+        "pronunciation": "MEE-tis",
+        "description": "Titaness of wisdom and good counsel."
+    },
+    {
+        "name": "Themis",
+        "pronunciation": "THEE-mis",
+        "description": "Titaness of divine law and order."
+    },
+    {
+        "name": "Mnemosyne",
+        "pronunciation": "nee-MOS-uh-nee",
+        "description": "Titaness of memory and mother of the Muses."
+    },
+    {
+        "name": "Oceanus",
+        "pronunciation": "oh-SEE-uh-nuhs",
+        "description": "Titan god of the ocean."
+    },
+    {
+        "name": "Tethys",
+        "pronunciation": "TEE-this",
+        "description": "Titaness of the sources of fresh water."
+    },
+    {
+        "name": "Hyperion",
+        "pronunciation": "hy-PEER-ee-on",
+        "description": "Titan god of heavenly light."
+    },
+    {
+        "name": "Iapetus",
+        "pronunciation": "eye-AP-uh-tuhs",
+        "description": "Titan god of mortality."
+    },
+    {
+        "name": "Coeus",
+        "pronunciation": "SEE-us",
+        "description": "Titan god of intellect."
+    },
+    {
+        "name": "Crius",
+        "pronunciation": "KREE-us",
+        "description": "Titan god of constellations."
+    },
+    {
+        "name": "Phoebe",
+        "pronunciation": "FEE-bee",
+        "description": "Titaness of the prophetic mind."
+    },
+    {
+        "name": "Rhea",
+        "pronunciation": "REE-uh",
+        "description": "Titaness and mother of the Olympian gods."
+    },
+    {
+        "name": "Theia",
+        "pronunciation": "THEE-uh",
+        "description": "Titaness of sight and the shining light of the clear blue sky."
+    },
+    {
+        "name": "Leto",
+        "pronunciation": "LEE-toh",
+        "description": "Titaness of motherhood and mother of Apollo and Artemis."
+    },
+    {
+        "name": "Achelous",
+        "pronunciation": "a-KEE-loh-us",
+        "description": "God of the Achelous River."
+    },
+    {
+        "name": "Aeolus",
+        "pronunciation": "EE-oh-lus",
+        "description": "God of the winds."
+    },
+    {
+        "name": "Alcyone",
+        "pronunciation": "al-SY-oh-nee",
+        "description": "One of the Pleiades, turned into a kingfisher."
+    },
+    {
+        "name": "Amphitrite",
+        "pronunciation": "am-fi-TRY-tee",
+        "description": "Goddess of the sea, wife of Poseidon."
+    },
+    {
+        "name": "Antheia",
+        "pronunciation": "an-THEE-uh",
+        "description": "Goddess of flowers and flowery wreaths."
+    },
+    {
+        "name": "Aphroditus",
+        "pronunciation": "af-ro-DY-tus",
+        "description": "Male counterpart of Aphrodite."
+    },
+    {
+        "name": "Aristaeus",
+        "pronunciation": "a-ris-TEE-us",
+        "description": "God of beekeeping, cheese-making, herding, olive-growing, and hunting."
+    },
+    {
+        "name": "Asclepius",
+        "pronunciation": "uh-SKLEE-pee-us",
+        "description": "God of medicine and healing."
+    },
+    {
+        "name": "Astraea",
+        "pronunciation": "as-TREE-uh",
+        "description": "Goddess of justice, innocence, and purity."
+    },
+    {
+        "name": "Atropos",
+        "pronunciation": "AT-roh-pos",
+        "description": "One of the three Fates, cutter of the thread of life."
+    },
+    {
+        "name": "Bia",
+        "pronunciation": "BYE-uh",
+        "description": "Goddess of force and raw energy."
+    },
+    {
+        "name": "Brizo",
+        "pronunciation": "BREE-zoh",
+        "description": "Goddess of sailors."
+    },
+    {
+        "name": "Caerus",
+        "pronunciation": "KAY-rus",
+        "description": "God of opportunity, luck, and favorable moments."
+    },
+    {
+        "name": "Ceto",
+        "pronunciation": "SEE-toh",
+        "description": "Goddess of the dangers of the ocean and sea monsters."
+    },
+    {
+        "name": "Chione",
+        "pronunciation": "kee-OH-nee",
+        "description": "Goddess of snow."
+    },
+    {
+        "name": "Circe",
+        "pronunciation": "SUR-see",
+        "description": "Enchantress who transformed Odysseus's men into swine."
+    },
+    {
+        "name": "Clio",
+        "pronunciation": "KLY-oh",
+        "description": "Muse of history."
+    },
+    {
+        "name": "Cybele",
+        "pronunciation": "SIB-uh-lee",
+        "description": "Phrygian mother goddess, associated with mountains, town and city walls, fertile nature, and wild animals."
+    },
+    {
+        "name": "Dike",
+        "pronunciation": "DY-kee",
+        "description": "Goddess of justice, fair judgements, and the rights established by custom and law."
     }
 ]
